@@ -57,11 +57,12 @@
 
 Fork then deployed directly don't change anything otherwise your bot is not working.
 
-[``Pyrogram Session``](https://telegram.me/String_Session_Generate_AeroBot)
+<h4> Generate String Session : </h4>    
+<p><a href="https://telegram.me/String_Session_Generate_AeroBot?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="350""/></a></p>)
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/Aero-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/Aero-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkpink?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
